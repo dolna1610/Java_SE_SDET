@@ -1,4 +1,4 @@
-package conditional_statement_loop;
+package java_condition_loop_problem_solution;
 //10. Write a program to enter the numbers till the user wants and at the end, the program should display the largest and smallest numbers user entered.
 //Input:
 //23
